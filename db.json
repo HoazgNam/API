@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Dự án Flutter cá nhân",
+      "content": "Bắt đầu tạo app ghi chú cá nhân, dùng Provider để quản lý trạng thái và tích hợp API từ NoteAPIService.",
+      "priority": 3,
+      "createdAt": "2024-04-01T10:00:00Z",
+      "modifiedAt": "2024-04-10T09:00:00Z",
+      "tags": ["flutter", "project", "note app"],
+      "color": "#03A9F4"
+    },
+    {
+      "id": 2,
+      "title": "Check đồ dùng trong bếp",
+      "content": "Kiểm tra còn gì trong tủ lạnh: rau, trứng, sữa, bánh mì. Ghi chú lại để khỏi mua trùng.",
+      "priority": 1,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-10T09:10:00Z",
+      "tags": ["nhắc nhở", "gia đình", "bếp núc"],
+      "color": "#8BC34A"
+    }
+     {
+      "id": 3,
+      "title": "Gọi điện cho khách hàng",
+      "content": "Liên hệ với khách hàng về lịch tour tháng 5.",
+      "priority": 1,
+      "createdAt": "2024-04-04T14:20:00Z",
+      "modifiedAt": "2024-04-04T14:45:00Z",
+      "tags": ["công việc", "liên hệ"],
+      "color": "#FFC107"
+    },
+    {
+      "id": 4,
+      "title": "Tập thể dục buổi sáng",
+      "content": "Chạy bộ 30 phút và tập yoga.",
+      "priority": 2,
+      "createdAt": "2024-04-05T06:00:00Z",
+      "modifiedAt": "2024-04-05T06:30:00Z",
+      "tags": ["sức khỏe", "thể dục"],
+      "color": "#E91E63"
+    },
+    {
+      "id": 5,
+      "title": "Viết bài blog",
+      "content": "Viết bài chia sẻ về kinh nghiệm học Flutter và tạo app ghi chú.",
+      "priority": 3,
+      "createdAt": "2024-04-06T20:00:00Z",
+      "modifiedAt": "2024-04-06T21:30:00Z",
+      "tags": ["blog", "flutter", "chia sẻ"],
+      "color": "#9C27B0"
+    }
+  ]
+}
